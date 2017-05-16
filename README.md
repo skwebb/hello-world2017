@@ -1,13 +1,14 @@
 # hello-world2017
 ## Test of the second level title
+### Third Level Title
 
 
-
-1. first item
-2. item the second
-2. secondary item (even if it should be third)
+1. First item
+2. Item the second
+2. Secondary item (even if it should be third)
+3. The third line
 
 *italics*
 **bold**
 
-I deleted some test content and now I am seeing if it worked.
+***Bold and Italics - Amazing!***
